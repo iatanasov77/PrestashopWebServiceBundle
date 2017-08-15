@@ -1,5 +1,5 @@
 {
-    "name": "kkuetnet/prestashopwebservice-bundle",
+    "name": "iatanasov77/prestashopwebservice-bundle",
     "description": "Prestashop WebService bundle for Symfony 2",
     "keywords": ["prestashop","webservice","bundle"],
     "type": "symfony-bundle",
